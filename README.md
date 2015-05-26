@@ -12,7 +12,7 @@ Please review our contribution guidelines below before contributing. Failure to 
 
 ### Plugins
 1. Fork the repository.
-2. Create a `yml` file named after the plugin using the format below.
+2. Create a `yml` file named after the plugin and fill it using the format below.
 3. Commit your files
 4. Submit a pull request, bitches love pull requests!
 
@@ -27,7 +27,8 @@ violations:
 
 ### Users
 1. Fork the repository.
-2. Create a `yml` file named after the author using the format below.
+2. Create a `yml` file named after the author and fill it using the format below.
+  - If you are reporting a spigot username then please name the file exactly as their username appears in the URL
 3. Commit your files
 4. Submit a pull request, bitches love pull requests!
 
