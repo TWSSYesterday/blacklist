@@ -4,6 +4,8 @@ Watchlist
 The data behind the Watchlist website, inspired by samczsun's "[Plugin Blacklist]" website.
 This project is community driven, therefore some information may not be 100% correct but we will at least attempt to verify it before merging submissions.
 
+Check out our [Chrome extension][cr-ext], it's still in the early stages but we're working on it!
+
 Please review our contribution guidelines below before contributing. Failure to conform to our guidelines will result in your submissions being deleted.
 
 ## Contributing
@@ -49,3 +51,4 @@ You must provider at least their username and one reason.
 - Spaces in plugin names should be replaced with an underscore when creating the `yml` file.
 
 [Plugin Blacklist]: http://samczsun.com/warning.html
+[cr-ext]: https://chrome.google.com/webstore/detail/spigot-blacklist/aafgnkhgmjhodeebloogjbcijlgfnanp
