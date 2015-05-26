@@ -38,7 +38,7 @@ id: <spigot forum ID>
 username: <spigot username>
 reasons:
 - Why they're
-- on the watchlist
+- on the blacklist
 ```
 You must provider at least their username and one reason.
 
