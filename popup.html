@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Spigot Blacklist</title>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+            font-family: 'Open Sans', arial;
+        }
+
+        .alert {
+            transition: 1s background-color;
+            background-color: #54CC56;
+            vertical-align: middle;
+            padding: 15px 30px;
+            text-align: center;
+            line-height: 50px;
+            color: #fdfdfd;
+            height: 80px;
+            width: 250px;
+        }
+
+        .alert.danger {
+            background-color: #FF6161;
+        }
+    </style>
+    <script src="popup.js"></script>
+</head>
+<body>
+    <div id="alert" class="alert">
+        <h3 id="status"></h3>
+    </div>
+</body>
+</html>

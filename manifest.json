@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Spigot Blacklist",
+  "short_name": "Blacklist",
+  "description": "Makes reporting users and plugins easier than ever.",
+  "author": "Fireflies",
+  "version": "1.1",
+
+  "homepage_url": "http://albionco.de/blacklist",
+  "offline_enabled": false,
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "http://www.spigotmc.org/members/*"
+  ]
+}
